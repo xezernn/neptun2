@@ -2,7 +2,10 @@ import React from 'react'
 
 function App() {
   return (
-    <div>sdfdjcvshjcbs</div>
+   <div>
+     <div>sdfdjcvshjcbs</div>
+     <div>salam necesen yaz</div>
+   </div>
   )
 }
 
